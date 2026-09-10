@@ -58,6 +58,12 @@ He is also the author of *[Governance Before Decision](https://trustcore.fi/book
 | Phone | [+358 41 711 1611](tel:+358417111611) |
 | Security reports | [security@trustcore.fi](mailto:security@trustcore.fi) |
 
+## AI-assisted development
+
+TrustCore uses OpenAI models, ChatGPT and Codex in selected research, prototyping, drafting, code-review and evaluation workflows. AI-generated output remains subject to TrustCore's own verification, governance and human-authorization boundaries.
+
+TrustCore AI Systems Oy is an independent company. Use of OpenAI products does not imply endorsement, certification or partnership.
+
 ## The execution boundary
 
 Our public design direction follows a simple control flow:
